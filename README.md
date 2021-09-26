@@ -1,3 +1,1 @@
-A copy of my website hosted on my University's servers
-
-https://poisson.phc.dm.unipi.it/~llombardo/ 
+My website. Copied from a kind user in the world wide web
